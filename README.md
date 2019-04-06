@@ -1,7 +1,7 @@
-StrapPress - Bootstrap 4 WordPress Starter Theme
+StanleyWP - Bootstrap 4 WordPress Starter Theme
 ===
 
-StrapPress is _s with Bootstrap 4. 
+StanleyWP is _s with Bootstrap 4. 
 
 Here are some of the other more interesting things you'll find within this theme:
 
@@ -18,4 +18,4 @@ Here are some of the other more interesting things you'll find within this theme
 Getting Started
 ---------------
 
-You can use StrapPress as a starter theme for a WordPress theme you are building or simply use the theme as is. 
+You can use StanleyWP as a starter theme for a WordPress theme you are building or simply use the theme as is. 

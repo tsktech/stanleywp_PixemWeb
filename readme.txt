@@ -1,4 +1,4 @@
-=== StrapPress ===
+=== StanleyWP ===
 
 Contributors: braginteractive
 Tags: translation-ready, theme-options, custom-menu, post-formats, threaded-comments
@@ -9,11 +9,11 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A Bootstrap 4 starter theme called StrapPress.
+A Bootstrap 4 starter theme called StanleyWP.
 
 == Description ==
 
-Hi. I'm a starter theme called StrapPress. I'm based off of _s and include Bootstrap 4 and Font Awesome.
+Hi. I'm a starter theme called StanleyWP. I'm based off of _s and include Bootstrap 4 and Font Awesome.
 
 == Installation ==
 

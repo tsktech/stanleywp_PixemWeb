@@ -55,7 +55,7 @@ gulp.task('zip', function () {
    '!bower_components',
    '!node_modules',
   ], {base: "."})
-  .pipe(zip('strappress.zip'))
+  .pipe(zip('StanleyWP.zip'))
   .pipe(gulp.dest('.'));
 });
  
