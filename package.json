@@ -1,0 +1,24 @@
+{
+  "name": "stanleywp",
+  "version": "1.0.0",
+  "description": "BootStrap 4 Theme dev with Gulp 4",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsktech/stanleywp.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap",
+    "4",
+    "gulp"
+  ],
+  "author": "srikanth@tskamath.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsktech/stanleywp/issues"
+  },
+  "homepage": "https://github.com/tsktech/stanleywp#readme"
+}
